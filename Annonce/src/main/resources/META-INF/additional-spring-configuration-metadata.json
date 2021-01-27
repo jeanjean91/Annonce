@@ -1,0 +1,77 @@
+{"properties": [
+  {
+    "name": "bezkoder.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtSecret'"
+  },
+  {
+    "name": "bezkoder.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtSecret'"
+  },
+  {
+    "name": "bezkoder.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtExpirationMs'"
+  },
+  {
+    "name": "Enable",
+    "type": "java.lang.String",
+    "description": "A description for 'Enable'"
+  },
+  {
+    "name": "test.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'test.app.jwtExpirationMs'"
+  },
+  {
+    "name": "Annonce.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'Annonce.app.jwtSecret'"
+  },
+  {
+    "name": "Annonce.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'Annonce.app.jwtSecret'"
+  },
+  {
+    "name": "Annonce.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'Annonce.app.jwtSecret'"
+  },
+  {
+    "name": "Annonce.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'Annonce.app.jwtSecret'"
+  },
+  {
+    "name": "Annonce.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'Annonce.app.jwtSecret'"
+  },
+  {
+    "name": "Annonce.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'Annonce.app.jwtSecret'"
+  },
+  {
+    "name": "Annonce.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'Annonce.app.jwtSecret'"
+  },
+  {
+    "name": "Annonce.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'Annonce.app.jwtSecret'"
+  },
+  {
+    "name": "Annonce.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'Annonce.app.jwtSecret'"
+  },
+  {
+    "name": "Annonce.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'Annonce.app.jwtSecret'"
+  }
+]}

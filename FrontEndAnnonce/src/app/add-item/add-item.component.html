@@ -1,0 +1,35 @@
+<div class="col-md-6 offset-md-3">
+    
+<h1 class="text-center">Ajouter une annonce</h1>
+    <form class="" action="" method="POST"   (ngSubmit)="onSubmit()">
+    
+        <div class="form-group">
+            <label> Titre</label>
+            <input type="text" class ="form-control" id = "name"
+                [(ngModel)] = "item.name" name = "name">
+        </div>
+    
+        <div class="form-group">
+            <label> Description</label>
+            <input type="text" class ="form-control" id = "description"
+                [(ngModel)] = "item.description" name = "description">
+        </div>
+    
+        <div class="form-group">
+            <label> Image </label>
+            <input type="text" class ="form-control" id = "profilImage"
+                [(ngModel)] = "item.profilImage" name = "profilImage">
+        </div>
+
+         <div class="form-group">
+            <label> Prix </label>
+            <input type="text" class ="form-control" id = "prix"
+                [(ngModel)] = "item.prix" name = "prix">
+        </div>
+    
+        <button class = "btn btn-success" type ="submit">Submit</button>
+    
+    </form>
+
+   
+    </div> 
